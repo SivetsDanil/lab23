@@ -1,0 +1,17 @@
+add A
+add B
+add C
+add D
+add E
+print
+check
+delete C
+print
+check
+delete A
+print
+check
+delete E
+print
+check
+exit

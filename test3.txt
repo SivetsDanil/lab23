@@ -1,0 +1,19 @@
+add D
+add B
+add F
+add A
+add C
+add E
+add G
+print
+check
+add H
+print
+check
+delete A
+print
+check
+delete F
+print
+check
+exit

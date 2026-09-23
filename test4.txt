@@ -1,0 +1,8 @@
+add K
+add P
+add A
+print
+check
+abb X
+delete-fffffffffffffffffffffffffffffffffffffffffffffffffffffffff Q
+print

@@ -1,0 +1,14 @@
+print
+check
+delete Z
+add M
+print
+check
+add M
+print
+check
+delete M
+print
+check
+delete M
+exit

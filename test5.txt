@@ -1,0 +1,13 @@
+add D
+add B
+add F
+dfudsfj
+add A
+add C
+musor
+print
+check
+delete D
+print
+check
+exit
